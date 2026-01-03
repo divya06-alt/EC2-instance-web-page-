@@ -1,6 +1,6 @@
 # ☁️ Cloud Status Web Application on AWS EC2
 
-### 👩‍💻 Developed by: **Divya Balachandar**
+### 👩‍💻 Developed by: **Divya Sri Varshani**
 
 ---
 
